@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"irishact" 
+	"version"			"1.0"
+	"author_name"		"Dr.IrishDan"
+	"author_email"		"Dr.IrishDan@IrishMayhem.com"
+	"author_url"		"www.irishmayhem.com"
+	"info"				"Allows you to use act functions graphically"
+}
+
